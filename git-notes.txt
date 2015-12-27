@@ -24,3 +24,7 @@ with your new content(project files)
 >git push origin master
 
 Now you can happily browse your github account and share your project link with others 
+
+
+-------------------OTHERS-------------------
+>git remote
