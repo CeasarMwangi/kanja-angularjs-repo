@@ -1,6 +1,26 @@
+Creating a new repo
+--------------------
+go to github and create anew repository
+copy the URL for the newly created repository
+
+open git bash CLI and use the following commands
+
+>mkdir my-new-repo
+>cd my-new-repo
 >git init
 >git add .
 >git commit -m "First comment"
 >git remote add origin master remote-repository-URL
 >git remote -v
 >git push origin master
+
+
+After adding your project files,
+Now its time to push the project(or update the remote master repo)
+with your new content(project files)
+
+>git add .
+>git commit -m "your-comment goes here"
+>git push origin master
+
+Now you can happily browse your github account and share your project link with others 
