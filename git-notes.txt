@@ -28,3 +28,5 @@ Now you can happily browse your github account and share your project link with 
 
 -------------------OTHERS-------------------
 >git remote
+
+more note from here: https://www.atlassian.com/git/tutorials/syncing/git-pull
